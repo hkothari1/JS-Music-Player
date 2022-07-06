@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- Heet's Music Playerrrrrr-->
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Heet's Music Player</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="topbar">
+            <i class="material-icons"> expand_more </i> 
+            <span>Now Playing</span>
+            <i class="material-icons"> more_horiz </i> 
+        </div>
+        <div class="photoarea">
+            <img src="" alt="">
+        </div>  
+        <div class="songdetailsarea">
+            <p class="name"></p>
+            <p class="artist"></p>
+
+        </div>
+        <div class="progressarea">
+            <div class="progressbar">
+            </div>
+            <div class="timer">
+                <span class="currenttime">0:00 </span>
+                <span class="duration"></span>
+            </div>
+            <audio id="main-audio" src ="">
+            </audio>
+        </div>
+        <div class="buttons">
+            <i id="repeatlist" class="material-icons"title="Playlist looped">repeat</i>
+            <i id="previous" class="material-icons">skip_previous</i>
+            <div class="playandpause">
+                <i class="material-icons">play_arrow</i>
+            </div>
+            <i id="nextone" class="material-icons">skip_next</i>
+            <i id="queue" class="material-icons">queue_music</i>
+        </div>
+        <div class="musiclist">
+            <div class="header">
+                <div class="row">
+                    <i class="material-icons">queue_music</i>
+                    <span>Your Music List</span>
+                </div>
+                <i id="closebutton" class="material-icons">close</i>
+            </div>
+            <ul>
+            </ul>
+        </div>
+    </div>
+
+    <script src="js/music-list.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
