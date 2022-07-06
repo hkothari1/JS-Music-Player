@@ -155,7 +155,7 @@ body{
 .buttons i{
     font-size: 25px;
     user-select: none;
-    /* might be able to take the next 3 out */
+    /* can delete the next 3 lines */
     background-clip: text;
     -webkit-background-clip: text; 
     /* -webkit-text-fill-color: transparent;   */
