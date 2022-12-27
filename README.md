@@ -38,6 +38,6 @@ Here is a description of the implemented functionalities and the associated butt
 
 # Future Goals
 
-I hope to implement the "Expand More" button functionality ![outline_expand_more_black_24dp](https://user-images.githubusercontent.com/87342378/209728593-cb30c600-41f0-4f3a-b085-b1833ecd6301.png) and the "More" button functionality ![outline_more_horiz_black_24dp](https://user-images.githubusercontent.com/87342378/209729007-641550d4-8b48-426b-b54a-2cc513da0304.png)
+I hope to implement the "Expand More" button functionality: ![outline_expand_more_black_24dp](https://user-images.githubusercontent.com/87342378/209728593-cb30c600-41f0-4f3a-b085-b1833ecd6301.png) and the "More" button functionality: ![outline_more_horiz_black_24dp](https://user-images.githubusercontent.com/87342378/209729007-641550d4-8b48-426b-b54a-2cc513da0304.png)
 
 
