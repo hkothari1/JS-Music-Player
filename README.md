@@ -22,3 +22,4 @@ Here is a description of the implemented functionalities and the associated butt
 - Play previous functionality: Play the previous song ⏮️
 - Play next functionality: Play the next song ⏭️
 - Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209723727-518564e8-0d47-407b-bd85-338f17349216.png)
+fgfg
