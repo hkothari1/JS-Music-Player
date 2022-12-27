@@ -25,7 +25,7 @@ Here is a description of the implemented functionalities and the associated butt
 
 - Play next functionality: Play the next song ![outline_skip_next_black_24dp](https://user-images.githubusercontent.com/87342378/209724745-d1fade95-d8e2-4b16-a362-15f199ad12ad.png)
 
-- Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209723727-518564e8-0d47-407b-bd85-338f17349216.png)
+- Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209724871-969a3c3c-d456-4dad-b079-8024fb016df3.png)
 
 
 
