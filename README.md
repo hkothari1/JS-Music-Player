@@ -27,5 +27,9 @@ Here is a description of the implemented functionalities and the associated butt
 
 - Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209724871-969a3c3c-d456-4dad-b079-8024fb016df3.png)
 
+- Playlist loop functionality: Loop through the songs in the playlist in the order they are specified in the "music-list.js" file under the "js" subfolder. If we are at the last song and the song finishes, loop back to the first song. ![outline_repeat_black_24dp](https://user-images.githubusercontent.com/87342378/209726665-bd9c73f6-f4b0-43ce-8433-e7834d81a957.png)
+
+- 
+
 
 
