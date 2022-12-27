@@ -17,5 +17,6 @@ The purpose of this application is to mimic the interface and functionality of m
 
 Here is a description of the implemented functionalities:
 
-- Play song functionality: Play the current song 
+- Play song functionality: Play the current song ![image](https://user-images.githubusercontent.com/87342378/209722990-06ddcfc3-eb39-4ae1-a6f2-953cf56b189e.png)
+
 
