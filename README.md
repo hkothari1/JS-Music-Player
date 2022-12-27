@@ -19,9 +19,10 @@ Here is a description of the implemented functionalities and the associated butt
 
 - Play song functionality: Play the current song ![outline_play_arrow_black_24dp](https://user-images.githubusercontent.com/87342378/209724242-2a52107b-5007-4b1b-a2a4-74fc9fb08532.png)
 
-- Pause song functionality: Pause the current song 
+- Pause song functionality: Pause the current song ![outline_pause_circle_outline_black_24dp](https://user-images.githubusercontent.com/87342378/209724533-62a93b9a-08c8-47c8-a4ac-baa5f3442e51.png)
+
 - Play previous functionality: Play the previous song ![outline_skip_previous_black_24dp](https://user-images.githubusercontent.com/87342378/209723982-8c08be9b-585c-4845-b382-5ed047fab73c.png)
 
-- Play next functionality: Play the next song ⏭️
+- Play next functionality: Play the next song ⏭
 - Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209723727-518564e8-0d47-407b-bd85-338f17349216.png)
 fgfg
