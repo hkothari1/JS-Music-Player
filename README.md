@@ -15,8 +15,10 @@ The purpose of this application is to mimic the interface and functionality of m
    For Mac: Double click on the "index.html" file and select the "Open With" option and then select any listed web browser to open the html file
 5. The music player application should open up on a tab associated with the browser you selected
 
-Here is a description of the implemented functionalities:
+Here is a description of the implemented functionalities and the associated button on my application:
 
-- Play song functionality: Play the current song ![image](https://user-images.githubusercontent.com/87342378/209722990-06ddcfc3-eb39-4ae1-a6f2-953cf56b189e.png)
-
-
+- Play song functionality: Play the current song ▶️
+- Pause song functionality: Pause the current song ⏸️
+- Play previous functionality: Play the previous song ⏮️
+- Play next functionality: Play the next song ⏭️
+- Playlist shuffle functionality: Shuffle the playlist ![outline_shuffle_black_24dp](https://user-images.githubusercontent.com/87342378/209723727-518564e8-0d47-407b-bd85-338f17349216.png)
