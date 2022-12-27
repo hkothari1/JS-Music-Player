@@ -29,7 +29,8 @@ Here is a description of the implemented functionalities and the associated butt
 
 - Playlist loop functionality: Loop through the songs in the playlist in the order they are specified in the "music-list.js" file under the "js" subfolder. If we are at the last song and the song finishes, loop back to the first song. ![outline_repeat_black_24dp](https://user-images.githubusercontent.com/87342378/209726665-bd9c73f6-f4b0-43ce-8433-e7834d81a957.png)
 
-- 
+- Song loop functionality: Repeat the current song once it finishes ![outline_repeat_one_black_24dp](https://user-images.githubusercontent.com/87342378/209726775-6cf918ab-d066-4516-a953-29fe8f5ec0ca.png)
+
 
 
 
