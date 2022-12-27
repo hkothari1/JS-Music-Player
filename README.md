@@ -17,8 +17,9 @@ The purpose of this application is to mimic the interface and functionality of m
 
 Here is a description of the implemented functionalities and the associated button on my application:
 
-- Play song functionality: Play the current song ▶️
-- Pause song functionality: Pause the current song ⏸️
+- Play song functionality: Play the current song ![outline_play_arrow_black_24dp](https://user-images.githubusercontent.com/87342378/209724242-2a52107b-5007-4b1b-a2a4-74fc9fb08532.png)
+
+- Pause song functionality: Pause the current song 
 - Play previous functionality: Play the previous song ![outline_skip_previous_black_24dp](https://user-images.githubusercontent.com/87342378/209723982-8c08be9b-585c-4845-b382-5ed047fab73c.png)
 
 - Play next functionality: Play the next song ⏭️
