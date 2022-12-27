@@ -31,7 +31,9 @@ Here is a description of the implemented functionalities and the associated butt
 
 - Song loop functionality: Repeat the current song once it finishes ![outline_repeat_one_black_24dp](https://user-images.githubusercontent.com/87342378/209726775-6cf918ab-d066-4516-a953-29fe8f5ec0ca.png)
 
-- Progress bar functionality: 
+- Progress bar functionality: Shows the time progress of the song from start to end. User can adjust the current time of the song by clicking anywhere on the bar.
 ![Screenshot_20221227_031618](https://user-images.githubusercontent.com/87342378/209727274-9117d710-9f5e-4fb6-a3fa-39193ca49b01.png)
+
+- Music queue list functionality: Shows the next songs to be played ![outline_queue_music_black_24dp](https://user-images.githubusercontent.com/87342378/209727618-75a6f289-952a-424c-846d-68de7d81f672.png)
 
 
