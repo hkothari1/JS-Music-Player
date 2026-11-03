@@ -11,8 +11,8 @@ The purpose of this application is to mimic the interface and functionality of m
 1. Clone this repository and remember the location of the repository on your device.
 2. Ensure that you have a browser such as Google Chrome installed on your device since you need it to run the HTML file.
 3. Find the cloned repository on your device and find the "index.html" file under the cloned repository folder
-4. For Windows: Right-click on the "index.html" file and select the "Open with Live Server" option
-   For Mac: Double click on the "index.html" file and select the "Open with Live Server" option
+4. For Windows: Right-click on the "index.html" file and select the "Open with Live Server" option.
+   For Mac: Double click on the "index.html" file and select the "Open with Live Server" option.
 5. The music player application should open up on a tab in your browser.
 
 Here is a description of the implemented functionalities and the associated button on my application:
